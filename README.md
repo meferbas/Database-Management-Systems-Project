@@ -1,8 +1,9 @@
-# Database-SQL-Project
+# Database-Management-Systems-Project
 
-Database project using C# Form with PostgreSQL.
+A database project using C# Form with PostgreSQL.
 
 
-For more details, read Rapor.pdf
+For more details, read Rapor.pdf.
 
-~Sakarya University Computer Science
+
+# Sakarya University
