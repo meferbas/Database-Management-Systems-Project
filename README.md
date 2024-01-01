@@ -1,6 +1,6 @@
 # Database Management Systems Project
 
- - A database project using C# Form with PostgreSQL.
+ - A game purchasing platform application developed using the PostgreSQL database and C# Forms.
  - For more details, read [Rapor.pdf](https://github.com/meferbas/Database-Management-Systems-Project/blob/master/Rapor.pdf)
 
 
